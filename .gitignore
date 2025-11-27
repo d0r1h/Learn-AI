@@ -1,0 +1,45 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.nbconvert/
+
+# ---- Conda / Anaconda ----
+# Conda environment directories
+env/
+venv/
+.venv/
+conda-env/
+*.conda
+*.yaml.backup
+
+# Conda build
+conda-bld/
+conda-dist/
+build/
+*.egg-info/
+
+# Conda package cache
+pkgs/
+pkgs_cache/
+*.tar.bz2
+
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# ---- Logs / Temp ----
+*.log
+*.tmp
+*.cache/
+.cache/
+
