@@ -13,6 +13,7 @@ anaconda_projects/db/
 
 # ---- Conda / Anaconda ----
 # Conda environment directories
+.env
 env/
 venv/
 .venv/
