@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchain-openai 
+langchainhub 
+chromadb 
+langchain
+langchain-huggingface
+sentence-transformers
+langchain[huggingface]
+huggingface_hub
+langchain_classic
+beautifulsoup4
+langchain-text-splitters
