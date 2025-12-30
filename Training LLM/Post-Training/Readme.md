@@ -6,7 +6,6 @@ Following are the differernt methods for Post training LLM
 1. SFT (Supervised Fine Tuning)
 2. DPO (Direct Preference Optimization) 
 3. Online RL (Reinforment Learning)
-4. 
 
 
 
@@ -28,3 +27,4 @@ Reference :
 4. https://pytorch.org/blog/a-primer-on-llm-post-training/
 5. https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training
 6. https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
+7. https://arxiv.org/pdf/2502.21321
