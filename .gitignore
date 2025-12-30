@@ -5,6 +5,11 @@ __pycache__/
 *.pyd
 *.pkl
 
+# --- folder---
+_Data
+_models_checkpoints
+
+
 # ---- Jupyter ----
 .ipynb_checkpoints/
 *.nbconvert/
