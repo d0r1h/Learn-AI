@@ -1,0 +1,10 @@
+model:
+  name: cnn   # mlp | cnn
+
+training:
+  epochs: 5
+  batch_size: 64
+  lr: 0.001
+
+system:
+  num_workers: 2
